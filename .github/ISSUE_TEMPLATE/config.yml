@@ -1,0 +1,11 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+# Allows users to create issues without a template
+blank_issues_enabled: true
+
+# Adds a link to your Discussions page in the issue creation menu
+contact_links:
+  - name: 💬 Community Discussions
+    about: Ask questions, start a conversation, or share your ruleset ideas.
+    url: https://github.com/afifashamsadvivo/ultimate_rpsls/discussions
+  
